@@ -13,7 +13,6 @@ Dive into detailed writeups from Capture The Flag (CTF) challenges. Each entry i
 - Step-by-step solution processes
 - Key takeaways for learning and growth
 
-![CTF Challenges](./images/ctf-overview.png)
 [Explore CTF Writeups](./pages/CTFs/ctfs.md)
 
 ---
@@ -24,7 +23,6 @@ Discover my in-depth security research focusing on:
 - Reverse engineering methodologies
 - Cutting-edge exploitation techniques
 
-![Security Research](./images/security-research.png)
 [Explore my research](./pages/Security%20Research/)
 ---
 
@@ -44,7 +42,6 @@ Looking to connect professionally? My resume highlights:
 - Technical skills and certifications
 - Contact details for networking opportunities
 
-![Resume Preview](./images/resume-preview.png)
 [View My Resume](./pages/Resume/resume.md)
 
 ---
@@ -52,7 +49,6 @@ Looking to connect professionally? My resume highlights:
 ## 🧑‍💻 **About Me**
 Learn more about my background, interests, and vision in the world of cybersecurity. From tackling CTF challenges to conducting cutting-edge research, I aim to make an impact.
 
-![About Me](./images/about-me.png)
 [Read About My Journey](./pages/About%20Me/about.md)
 
 ---
