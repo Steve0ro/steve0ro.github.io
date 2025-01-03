@@ -14,7 +14,7 @@ Dive into detailed writeups from Capture The Flag (CTF) challenges. Each entry i
 - Key takeaways for learning and growth
 
 ![CTF Challenges](./images/ctf-overview.png)
-[Explore CTF Writeups](./pages/CTFs/)
+[Explore CTF Writeups](./pages/CTFs/ctfs.md)
 
 ---
 
