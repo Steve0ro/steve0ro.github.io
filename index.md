@@ -1,123 +1,66 @@
 ---
 layout: default
+title: Home
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Welcome to My Professional Cybersecurity Portfolio
 
-[Link to another page](./another-page.html).
+Welcome to my site—a hub for showcasing my professional journey, technical expertise, and contributions to the cybersecurity field. This platform serves as a space to share knowledge, tools, and insights with the broader community.
 
-There should be whitespace between paragraphs.
+## 🚩 **CTF Writeups**
+Dive into detailed writeups from Capture The Flag (CTF) challenges. Each entry includes:
+- Comprehensive problem breakdown
+- Step-by-step solution processes
+- Key takeaways for learning and growth
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+![CTF Challenges](./images/ctf-overview.png)
+[Explore CTF Writeups](./pages/CTFs/)
 
-# Header 1
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## 🔍 **Security Research**
+Discover my in-depth security research focusing on:
+- Advanced vulnerability assessments
+- Reverse engineering methodologies
+- Cutting-edge exploitation techniques
 
-## Header 2
+![Security Research](./images/security-research.png)
+[Explore my research](./pages/Security%20Research/)
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 🛠️ **Tools & Scripts**
+Browse my collection of custom-built tools and scripts designed for:
+- Streamlining cybersecurity workflows
+- Solving complex technical challenges
+- Enhancing operational efficiency
+ 
+[Explore My Tools & Scripts](https://github.com/steve0ro/)
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## 📄 **Resume**
+Looking to connect professionally? My resume highlights:
+- Work experience and accomplishments
+- Technical skills and certifications
+- Contact details for networking opportunities
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+![Resume Preview](./images/resume-preview.png)
+[View My Resume](./pages/Resume/resume.md)
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## 🧑‍💻 **About Me**
+Learn more about my background, interests, and vision in the world of cybersecurity. From tackling CTF challenges to conducting cutting-edge research, I aim to make an impact.
 
-##### Header 5
+![About Me](./images/about-me.png)
+[Read About My Journey](./pages/About%20Me/about.md)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+### Stay Connected
+Feel free to reach out or connect with me via:
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+- **LinkedIn**: [🛡 Steve Oro](https://www.linkedin.com/in/%F0%9F%9B%A1steve-oro-298ab617b/)
+- **Twitter**: [_s_spiegel](https://x.com/_s_spiegel)
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Thank you for visiting my site. Feel free to reach out or bookmark this page for future updates!

@@ -1,6 +1,6 @@
 title: Hacker Blog
 description: Site used for all things cyber security.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
 url: "https://steve0ro.github.io"
