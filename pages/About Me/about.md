@@ -5,32 +5,15 @@ title: About Me
 
 # About Me
 
+Hola, I’m Steve Orozco – a passionate and driven cybersecurity professional with over 7 years of experience protecting organizations from cyber threats and enabling secure digital transformations. My journey in cybersecurity spans roles in both public and private sectors, where I’ve honed expertise in offensive and defensive security operations, penetration testing, digital forensics, and secure infrastructure design.
 
-## 🧑‍💻 **Background**
-I am a dedicated cybersecurity professional with a strong foundation in:
-- **Network Security**: Ensuring robust defenses for complex network infrastructures.
-- **Application Security**: Identifying and mitigating vulnerabilities in software systems.
-- **Reverse Engineering**: Deconstructing binaries to understand and secure them.
+Throughout my career, I’ve worked with renowned organizations like the U.S. Air Force, Center for Internet Security, and Fortune 500 companies. My technical toolbox includes Windows Active Directory, Linux Systems Administration, digital forensics investigations, and designing robust systems using VMware, Proxmox, Kubernetes, and Azure.
 
-My journey began with a fascination for technology and problem-solving, which eventually led me to specialize in cybersecurity. Over the years, I have developed a deep interest in tackling challenges such as vulnerability exploitation and developing security tools.
+Some of my proudest achievements include:
+- Achieving 1st place in the competitive "Cyber-Yankee 2022" Capture the Flag event.
+- Reducing enterprise vulnerability exposure by 35% through proactive threat assessments and mitigation.
+- Developing and deploying enterprise-grade SIEM solutions that enhanced threat detection by 62%.
 
-## 🎓 **Education**
-I hold no degree
+I’m not just about solving today’s cybersecurity challenges – I’m passionate about staying ahead of emerging threats and sharing knowledge with others. Whether it's mentoring teams, creating custom security tools, or writing whitepapers on advanced techniques, I aim to contribute to the security community in meaningful ways.
 
-## 💼 **Professional Experience**
-Throughout my career, I have worked on:
-- **Incident Response**: Leading efforts to detect, analyze, and remediate security breaches.
-- **Penetration Testing**: Conducting assessments to identify and mitigate security risks.
-- **Tool Development**: Building custom solutions to automate and enhance security operations.
-
-I have had the privilege of collaborating with diverse teams and organizations, continuously honing my technical skills and gaining industry insights.
-
-## 🏆 **Achievements**
-- **CTF Competitions**: Ranked in top positions in several national and international CTF challenges.
-- **Published Research**: Authored articles on vulnerability assessments and mitigation strategies.
-- **Certifications**: Certified in [GCFA, GCFE, GWAPT, Linux+, Security+, A+, OSCP].
-
-## 🌟 **Values and Vision**
-I believe in the power of knowledge-sharing and collaboration to strengthen the global cybersecurity community. My vision is to:
-- Mentor aspiring cybersecurity professionals.
-- Stay at the forefront of emerging technologies and threats.
+When I’m not diving into cybersecurity, you might find me outside with my kids and wife, repairing my house, or contributing to open-source projects. Let’s connect!

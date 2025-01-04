@@ -17,15 +17,6 @@ Dive into detailed writeups from Capture The Flag (CTF) challenges. Each entry i
 
 ---
 
-## 🔍 **Security Research**
-Discover my in-depth security research focusing on:
-- Advanced vulnerability assessments
-- Reverse engineering methodologies
-- Cutting-edge exploitation techniques
-
-[Explore my research](./pages/Security%20Research/)
----
-
 ## 🛠️ **Tools & Scripts**
 Browse my collection of custom-built tools and scripts designed for:
 - Streamlining cybersecurity workflows

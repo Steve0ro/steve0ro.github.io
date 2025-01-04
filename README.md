@@ -31,14 +31,14 @@ Discover the tools and scripts I've created to streamline tasks, solve challenge
 - Open-source tools for the community
 
 ### 4. **Resume**
-Looking to collaborate or hire? My resume is available [here](resume.md) for potential job opportunities.
+Looking to collaborate or hire? My resume is available [here](./pages/Resume/resume.md) for potential job opportunities.
 
 ## 🌟 **About Me**
 I'm a passionate cybersecurity enthusiast with a knack for solving complex problems and building innovative solutions. My goal is to share knowledge, contribute to the community, and continuously learn from others in the field.
 
 ## 📫 **Get in Touch**
 Feel free to reach out or connect with me via:
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+
 - **LinkedIn**: [🛡 Steve Oro](https://www.linkedin.com/in/%F0%9F%9B%A1steve-oro-298ab617b/)
 - **Twitter**: [_s_spiegel](https://x.com/_s_spiegel)
 
