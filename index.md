@@ -40,7 +40,7 @@ Looking to connect professionally? My resume highlights:
 ## 🧑‍💻 **About Me**
 Learn more about my background, interests, and vision in the world of cybersecurity. From tackling CTF challenges to conducting cutting-edge research, I aim to make an impact.
 
-[Read About My Journey](./pages/About%20Me/about.md)
+[Read About My Journey](./pages/AboutMe/about.md)
 
 ---
 

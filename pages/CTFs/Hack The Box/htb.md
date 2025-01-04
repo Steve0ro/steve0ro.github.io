@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Hack The Box CTF Writeups
 
 Welcome to my collection of Hack The Box (HTB) Capture The Flag (CTF) writeups. This page serves as a central hub for all my detailed solutions, insights, and methodologies for tackling various HTB challenges.
@@ -22,7 +26,7 @@ Welcome to my collection of Hack The Box (HTB) Capture The Flag (CTF) writeups. 
 ## Introduction
 Hack The Box is an online platform that allows you to test and improve your penetration testing skills through a variety of challenges and virtual machines (VMs). The purpose of these writeups is to share my learning journey and help others understand the approaches taken to solve these challenges.
 
-> **Disclaimer:** These writeups are for educational purposes only. Do not use this knowledge for unauthorized activities. Respect the [HTB Rules](https://www.hackthebox.com/rules).
+> **Disclaimer:** These writeups are for educational purposes only. Do not use this knowledge for unauthorized activities. Respect the HTB Rules
 
 ---
 

@@ -16,4 +16,4 @@ Some of my proudest achievements include:
 
 I’m not just about solving today’s cybersecurity challenges – I’m passionate about staying ahead of emerging threats and sharing knowledge with others. Whether it's mentoring teams, creating custom security tools, or writing whitepapers on advanced techniques, I aim to contribute to the security community in meaningful ways.
 
-When I’m not diving into cybersecurity, you might find me outside with my kids and wife, repairing my house, or contributing to open-source projects. Let’s connect!
+When I’m not diving into cybersecurity, you might find me outside with my wife and kids, repairing my house, or contributing to open-source projects. Let’s connect!
